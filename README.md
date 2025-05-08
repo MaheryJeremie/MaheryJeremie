@@ -72,4 +72,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+
 ###
+![](https://github-readme-stats.vercel.app/api?username=MaheryJeremie&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![](https://streak-stats.demolab.com?user=MaheryJeremie&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheryJeremie&theme=dark&show_icons=true&hide_border=true&layout=compact)
