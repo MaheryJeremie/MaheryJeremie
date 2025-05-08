@@ -74,6 +74,6 @@
 
 
 ###
-![](https://github-readme-stats.vercel.app/api?username=MaheryJeremie&theme=react&show_icons=true&hide_border=true&count_private=true)
-![](https://streak-stats.demolab.com?user=MaheryJeremie&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheryJeremie&theme=react&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MaheryJeremie&theme=default&show_icons=true&hide_border=true&count_private=true)
+![](https://streak-stats.demolab.com?user=MaheryJeremie&theme=default&hide_border=true))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheryJeremie&theme=default&show_icons=true&hide_border=true&layout=compact)
